@@ -7,6 +7,9 @@ Kata Kunci— Dashboard, informasi, hutan, visualisasi, informasi.
 ## Pengumpulan Data
 Digunakan data sekunder yang diperoleh dari website bps, Publikasi BPS yang berjudul Kalimantan utara dalam angka 2021 dan Statistik Indonesia 2021, serta data kaggle. 
 
+## Aplikasi yang digunakan
+Menggunakan aplikasi Tableau Public 2021.4
+
 ## Pembangunan Dashboard
 Visualisasi data dalam penelitian ini berupa dashboard informasi mengenai kehutanan menurut provinsi di Indonesia. Perancangan dashboard menggunakan aplikasi tableau public 2021.4. Dimulai dari pembuatan visualisasi maps Indonesia yang berisi informasi luas wilayah Indonesia dan luas hutan. Treemaps untuk visualisasi curah hujan dan suhu Indonesia tahun 2020, barplot dan line chart untuk luas hutan, packed bubble untuk bencana, scatter plot untuk visuliasasi plot reboisasi dengan bencana dan deforestasi dengan bencana, dan side-by-side bars untuk visualisasi luas deforestasi dan reboisasi. Dari visuliasasi-visualisasi tersebut dijadikan satu tampilan dashboard. Ketika maps provinsi diklik, maka visualisasi lain akan menampilkan informasi provinsi yang diklik pada maps.  
 
