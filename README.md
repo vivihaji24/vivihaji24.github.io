@@ -1,4 +1,3 @@
-# vivihaji24.github.io
 # Dashboard kehutanan Menurut Provinsi di Indonesia
 
 ## Abstrak
